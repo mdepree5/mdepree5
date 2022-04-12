@@ -1,9 +1,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://www.linkedin.com/in/mitch-depree-4a5686155/)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-[![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdepree5&theme=cobalt2&show_icons=true)](https://github.com/mdepree5/github-readme-stats)
+[![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdepree5&theme=cobalt2&show_icons=true)](https://github.com/mdepree5/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdepree5&theme=cobalt2&layout=compact)](https://github.com/mdepree5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdepree5&theme=cobalt2&layout=compact)](https://github.com/mdepree5/)
 
 <!--
 - 🔭 I’m currently working on ...
