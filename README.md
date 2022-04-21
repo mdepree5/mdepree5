@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Projects he's worked on:
+## Projects He's Worked on:
 
 <p align="justify">
   <a href="https://tvhey.herokuapp.com/"><strong>TVHey »</strong></a> 'Loki' themed Slack clone <a href="https://github.com/mdepree5/TVHey">Github »</a>
