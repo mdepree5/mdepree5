@@ -1,7 +1,7 @@
 <!-- [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://www.linkedin.com/in/mitch-depree-4a5686155/)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) -->
 
-## Mitch's Github
+## Hey!
 
 [![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdepree5&theme=cobalt2&show_icons=true)](https://github.com/mdepree5/)
 
@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Projects He's Worked on:
+## Projects:
 
 <p align="justify">
   <a href="https://tvhey.herokuapp.com/"><strong>TVHey »</strong></a> 'Loki' themed Slack clone <a href="https://github.com/mdepree5/TVHey">Github »</a>
